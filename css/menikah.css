@@ -51,7 +51,7 @@ html {
 
 .hero .title {
   font-family: 'Rouge Script', sans-serif;
-  font-weight: 700;
+  font-weight: 500;
   transform: rotate(-2deg);
   font-size: 5rem;
   padding-bottom: 5px;
@@ -501,7 +501,7 @@ body.preloader-site {
 
 .btn-cta {
   background-color: #996E6D;
-  width:  210px;
+  width:  250px;
   height: 65px;
   color: white;
   font-size: 1.2rem;
