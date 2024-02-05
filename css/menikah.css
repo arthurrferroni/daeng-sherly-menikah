@@ -582,7 +582,7 @@ body.preloader-site {
 }
 
 .foto3 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/sherly-daeng-selfie.jpg");
+  background-image: url("/image/foto3.jpg");
   background-size: cover;
   background-position: top;
   background-repeat:no-repeat;
@@ -590,7 +590,7 @@ body.preloader-site {
 }
 
 .foto4 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/sherly-daeng-lamaran.jpg");
+  background-image: url("/image/foto4.jpg");
   background-size: cover;
   background-position: top;
   background-repeat:no-repeat;
@@ -598,7 +598,7 @@ body.preloader-site {
 }
 
 .foto5 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/sherly-daeng-red-car.jpg");
+  background-image: url("/image/foto5.jpg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
@@ -607,8 +607,8 @@ body.preloader-site {
 
 
 .foto6 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/sherly-daeng-engagement-ami.jpg");
-  background-size: cover;
+  background-image: url("/image/foto6.jpg");
+  background-size: contain;
   background-position: center;
   background-repeat:no-repeat;
   min-height: 24rem;
